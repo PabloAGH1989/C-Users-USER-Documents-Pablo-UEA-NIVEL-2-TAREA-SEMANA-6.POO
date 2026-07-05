@@ -16,13 +16,14 @@ El sistema permite registrar platillos y bebidas, además de mostrar el menú de
 ```
 restaurante_app/
 │
-├── main.py
+
 ├── modelos/
 │   ├── producto.py
 │   ├── platillo.py
 │   └── bebida.py
 └── servicios/
     └── restaurante_services.py
+├── main.py
 ```
 
 ## Autor
